@@ -1,0 +1,5 @@
+cd C:\xampp\htdocs\beginners\html-css-js
+git init
+git remote add origin https://github.com/jemmms/For_Practice.git 
+git commit -m "Initial upload"  
+git push -u origin master
