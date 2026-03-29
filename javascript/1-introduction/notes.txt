@@ -1,0 +1,10 @@
+alert('hello'); 
+    > it pop-up in google browser
+    > can code it in console
+
+document.body.innerHTML = 'hello';
+    > it appears the text in browser
+
+title (in html - attribute name)
+    > it appears the value (text) when you cursor targeted it
+
